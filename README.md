@@ -1,8 +1,8 @@
-<a href="https://github.com/lipangit/JiaoZiVideoPlayer" target="_blank"><img src="https://user-images.githubusercontent.com/2038071/29994158-7e65546c-8ffb-11e7-80fd-c630e2a36135.png" style="max-width:100%;"></a>
+<a href="https://github.com/lipangit/JiaoZiVideoPlayer" target="_blank"><p align="center"><img src="https://user-images.githubusercontent.com/2038071/42033014-0bf1c0b0-7b0e-11e8-811d-7639bcd294eb.png" alt="JiaoZiVideoPlayer" height="150px"></p></a>
 --
 <p align="center">
 <a href="http://developer.android.com/index.html"><img src="https://img.shields.io/badge/platform-android-green.svg"></a>
-<a href="http://search.maven.org/#artifactdetails%7Ccn.jzvd%7Cjiaozivideoplayer%7C5.8.2%7Caar"><img src="https://img.shields.io/badge/Maven%20Central-6.2.10-green.svg"></a>
+<a href="http://search.maven.org/#artifactdetails%7Ccn.jzvd%7Cjiaozivideoplayer%7C5.8.2%7Caar"><img src="https://img.shields.io/badge/Maven%20Central-6.2.12-green.svg"></a>
 <a href="http://choosealicense.com/licenses/mit/"><img src="https://img.shields.io/badge/license-MIT-green.svg"></a>
 <a href="https://android-arsenal.com/details/1/3269"><img src="https://img.shields.io/badge/Android%20Arsenal-jiaozivideoplayer-green.svg?style=true"></a>
 </p>
@@ -11,7 +11,7 @@ Perfect list sliding detection, one line of code to replace the system player wi
 
 Group Q: 490442439 (group 1 full) 761899104 (group 2) authentication information: jzvd
 
-[Wiki](https://github.com/lipangit/JiaoZiVideoPlayer/wiki)  
+[Wiki](https://github.com/lipangit/JiaoZiVideoPlayer/wiki)  [EnglishWiki](https://github.com/felipetorres/VideoPlayer-Wiki)  
 [Chinese README](https://github.com/lipangit/JiaoZiVideoPlayer/blob/develop/README-ZH.md)  
 [WorkPlan](https://github.com/lipangit/JiaoZiVideoPlayer/projects/2)  
 [Video tutorial](https://github.com/lipangit/JiaoZiVideoPlayer/wiki/%E8%A7%86%E9%A2%91%E6%95%99%E7%A8%8B)  
@@ -34,7 +34,7 @@ Group Q: 490442439 (group 1 full) 761899104 (group 2) authentication information
 
 ## Demo apk 
 
-A demo apk [jiaozivideoplayer-6.2.10.apk](https://github.com/lipangit/JiaoZiVideoPlayer/releases/download/v6.2.10/jiaozivideoplayer-6.2.10.apk) is available on Google Play showing all available features like this [small window effect on list sliding](http://weibo.com/tv/v/FtxpWgqmg?fid=1034:5cda6fc7f394b403d592bd9b1d5a9701).
+A demo apk [jiaozivideoplayer-6.2.12.apk](https://github.com/lipangit/JiaoZiVideoPlayer/releases/download/v6.2.12/jiaozivideoplayer-6.2.12.apk) is available on Google Play showing all available features like this [small window effect on list sliding](http://weibo.com/tv/v/FtxpWgqmg?fid=1034:5cda6fc7f394b403d592bd9b1d5a9701).
 
 ![Demo screenshot][1]
 
@@ -44,10 +44,10 @@ Only five steps to use the player:
 
 1.Import library:
 ```gradle
-compile 'cn.jzvd:jiaozivideoplayer:6.2.10'
+compile 'cn.jzvd:jiaozivideoplayer:6.2.12'
 ```
 
-Or download [lib](https://github.com/lipangit/JiaoZiVideoPlayer/releases/tag/v6.2.10) (not recommended).
+Or download [lib](https://github.com/lipangit/JiaoZiVideoPlayer/releases/tag/v6.2.12) (not recommended).
 
 2.Add `JZVideoPlayer` in your layout:
 ```xml
